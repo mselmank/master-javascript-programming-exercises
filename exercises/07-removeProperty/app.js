@@ -1,3 +1,11 @@
 function removeProperty(obj, key) {
-  // your code here
+    // your code here
+
+    delete obj[key]
+
+
+
+
+
+
 }
